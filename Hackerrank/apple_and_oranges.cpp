@@ -14,8 +14,8 @@ vector<string> split(const string &);
  *  2. INTEGER t
  *  3. INTEGER a
  *  4. INTEGER b
- *  5. INTEGER_ARRAY apples
- *  6. INTEGER_ARRAY oranges
+ *  5. INTEGER_ARRAY apple
+ *  6. INTEGER_ARRAY orange
  */
 
 void countApplesAndOranges(int s, int t, int a, int b, vector<int> apples, vector<int> oranges) {

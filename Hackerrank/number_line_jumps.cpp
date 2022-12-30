@@ -18,7 +18,7 @@ vector<string> split(const string &);
  */
 
 string kangaroo(int x1, int v1, int x2, int v2) {
-// abs(a-b)%(2*x)==0
+
 string s;
 int sum1=x1;
 int sum2=x2;
